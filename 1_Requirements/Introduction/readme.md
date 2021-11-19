@@ -8,7 +8,11 @@ Time is also a barrier: In order to meet a person to view the property, the buye
 Advantages
 
 Time saving
+
 saves money
-no mediator
+
+No mediator
+
 24/7 Accessability
+
 Easy access
