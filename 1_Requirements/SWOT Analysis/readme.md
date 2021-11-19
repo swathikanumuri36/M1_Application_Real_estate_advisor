@@ -1,6 +1,7 @@
 
 SWOT Analysis<br>
-Strengths:<br>                                                             
+
+STRENGTHS:<br>                                                             
 Time adjustment is dependends on Buyer and Seller.<br>
 Connecting people directly given the information.<br>
 Global usage.<br>
