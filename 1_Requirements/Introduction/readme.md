@@ -6,6 +6,7 @@ Real estate is one of the major business which requires high attention.In this b
 Time is also a barrier: In order to meet a person to view the property, the buyer's only source is mediator so it takes more time to view the property.
 
 Advantages
+
 Time saving
 saves money
 no mediator
