@@ -15,11 +15,11 @@
 #include <stdio.h>.<br>
 #include <string.h><br>
 
-struct user
+struct user.<br>
 {
-    char name[30];
-    long int cnumber;
-    char ptype[20];
+    char name[30];<br>
+    long int cnumber;<br>
+    char ptype[20];<br>
     int ext;
     char place[20];
     char country[20];
