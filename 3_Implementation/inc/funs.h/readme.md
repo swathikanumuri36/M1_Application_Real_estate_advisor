@@ -10,64 +10,64 @@
  * 
  */
 
-#ifndef __FUNS_H__.<br>
-#define __FUNS_H__.<br>
-#include <stdio.h>.<br>
+#ifndef __FUNS_H__<br>
+#define __FUNS_H__<br>
+#include <stdio.h><br>
 #include <string.h><br>
 
 struct user.<br>
-{
+{<br>
     char name[30];<br>
     long int cnumber;<br>
     char ptype[20];<br>
-    int ext;
-    char place[20];
-    char country[20];
-};
+    int ext;<br>
+    char place[20];<br>
+    char country[20];<br>
+};<br>
 
-struct user u;
+struct user u;<br>
 
-long int size;
+long int size;<br>
 
-FILE *fptr, *ftemp;
+FILE *fptr, *ftemp;<br>
 
 /**
  * @brief Displays all the properties available to buy.
  * 
  */
-void display_prop();
+void display_prop();<br>
 
 /**
  * @brief User can view properties by type of the property
  * (villa, house, land).
  * 
  */
-void display_type_prop();
+void display_type_prop();<br>
 
 /**
  * @brief Sellers can add their properties so that they can be viewed 
  * by buyers.
  * 
  */
-void add_prop();
+void add_prop();<br>
 
 /**
  * @brief Sellers can remove their properties if like to
  * (incase sold out)
  * 
  */
-void remove_prop();
+void remove_prop();<br>
 
 /**
  * @brief Sellers can change the specifications if they were entered 
  * wrong by mistake.
  * 
  */
-void modify_prop();
+void modify_prop();<br>
 
-int display_number();
+int display_number();<br>
 
-#endif
+#endif<br>
 
 
 
