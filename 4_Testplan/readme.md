@@ -2,10 +2,10 @@
 <br>
 ## High Level Test Plan
 <br>
-| ID | Description | Expected I/P | Expected O/P | Actual O/P | Type of Test |<br>
-|----|----------------------|-------------|-------------|-------------|--------------|<br>
-|HP01|Sellers UI | Character s| Enters to sellers page| Pass| Requirement |<br>
-|HP02| Buyers UI | Character b| Enters to buyers page| Pass| Requirement|
+| ID | Description | Expected I/P | Expected O/P                | Actual O/P   | Type of Test |<br>
+|----|-------------|------------- |---------------------------- |------------- |--------------|<br>
+|HP01|Sellers UI   | Character s  | Enters to sellers page| Pass| Pass         |Requirement   |<br>
+|HP02| Buyers UI   | Character b  | Enters to buyers page| Pass | Pass         |Requirement   |<br>
 <br>
 <br>
 <br>
