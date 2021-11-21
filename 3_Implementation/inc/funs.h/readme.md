@@ -41,28 +41,28 @@ void display_prop();<br>
  * @brief User can view properties by type of the property
  * (villa, house, land).
  * 
- */
+ */<br>
 void display_type_prop();<br>
 
 /**
  * @brief Sellers can add their properties so that they can be viewed 
  * by buyers.
  * 
- */
+ */<br>
 void add_prop();<br>
 
 /**
  * @brief Sellers can remove their properties if like to
  * (incase sold out)
  * 
- */
+ */<br>
 void remove_prop();<br>
 
 /**
  * @brief Sellers can change the specifications if they were entered 
  * wrong by mistake.
  * 
- */
+ */<br>
 void modify_prop();<br>
 
 int display_number();<br>
