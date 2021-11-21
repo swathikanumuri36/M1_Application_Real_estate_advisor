@@ -15,7 +15,7 @@
 #include <stdio.h><br>
 #include <string.h><br>
 
-struct user.<br>
+struct user<br>
 {<br>
     char name[30];<br>
     long int cnumber;<br>
