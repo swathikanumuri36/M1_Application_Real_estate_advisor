@@ -68,8 +68,3 @@ void modify_prop();
 int display_number();
 
 #endif
-
-
-
-
-
