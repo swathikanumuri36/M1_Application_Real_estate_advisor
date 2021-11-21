@@ -34,7 +34,7 @@ FILE *fptr, *ftemp;<br>
 /**
  * @brief Displays all the properties available to buy.
  * 
- */
+ */<br>
 void display_prop();<br>
 
 /**
