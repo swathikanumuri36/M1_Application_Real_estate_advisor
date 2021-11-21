@@ -26,4 +26,3 @@
 |LP08| Seller can update if there are errors while entering information| Char name|Opens modify module| Pass| Requirement|
 |LP09|seller can update another |char y|Modifies another information|Pass| Requirement|
 |LP10|Seller can exit|Integer 4| Exits from module|Pass|Requirement|
-
