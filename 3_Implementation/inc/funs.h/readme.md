@@ -10,10 +10,10 @@
  * 
  */
 
-#ifndef __FUNS_H__
-#define __FUNS_H__
-#include <stdio.h>
-#include <string.h>
+#ifndef __FUNS_H__.<br>
+#define __FUNS_H__.<br>
+#include <stdio.h>.<br>
+#include <string.h><br>
 
 struct user
 {
