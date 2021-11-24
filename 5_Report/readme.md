@@ -53,7 +53,7 @@ Mediators take a huge amount of money on successful completion of a deal.To over
 
 ## 4W and 1H
 
-###WHO:
+### WHO:
 Everyone who has a desire to buy a property or a need to sell their property they can use it.
 
 ### WHAT:
@@ -69,4 +69,6 @@ As it is globalised, it can be used anywhere and all the asserts can viewed whic
 
 Buyers can view all the properties or asserts availablle or can also view by the type of property,available by adding specifications and can also modify them.If the property is sold out,seller can remove that properties.
 
+
+### High Level Requirement
 
