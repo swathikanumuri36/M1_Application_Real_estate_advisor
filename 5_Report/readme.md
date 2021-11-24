@@ -108,7 +108,7 @@ Buyers can view all the properties or asserts availablle or can also view by the
 
 ### use case diagram
 
-![BEHAvioural dia](https://user-images.githubusercontent.com/94305490/143235283-2caccb40-ab3b-44cf-be99-b699eb9412be.png)
+![BEHAvioural dia](https://user-images.githubusercontent.com/94305490/142736278-87b76bbd-fc26-49ef-842f-299ccff54dd5.png)
 
 
 
