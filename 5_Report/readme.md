@@ -96,3 +96,19 @@ Buyers can view all the properties or asserts availablle or can also view by the
 | LLR08 | Both buyers and sellers has an option to exit from the interface | HLR01 HLR02 | Implemented |
 
 
+
+# Design
+
+## Behavioural diagrams
+
+### Activity diagram
+
+![Diagram](https://user-images.githubusercontent.com/94305490/143235080-2a1a928b-c3e5-460d-a6ec-d996155885d7.png)
+
+
+### use case diagram
+
+![BEHAvioural dia](https://user-images.githubusercontent.com/94305490/143235283-2caccb40-ab3b-44cf-be99-b699eb9412be.png)
+
+
+
