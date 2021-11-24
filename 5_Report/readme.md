@@ -31,3 +31,15 @@ Mediators take a huge amount of money on successful completion of a deal.To over
 -There can be fraudsters who might keep fake information. So the two parties (Buyer and sellers ) need to be very particular in checking the proofs
 <br>
 <br>
+
+# Cost and Features
+
+- Real estate advisor has two features that is Buyer and Seller.
+
+Buyer:
+- Can view the all records of available properties.
+- Can view properties by the type of property.
+Seller:
+- Can add their properties with specifications and other details like address,contact number,etc.
+- Can modify the added details of the Properties.
+- Delete the record of properties,incase property is sold out.
