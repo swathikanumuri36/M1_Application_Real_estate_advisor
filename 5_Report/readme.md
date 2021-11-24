@@ -103,7 +103,7 @@ Buyers can view all the properties or asserts availablle or can also view by the
 
 ### Activity diagram
 
-![Diagram](https://user-images.githubusercontent.com/94305490/143235080-2a1a928b-c3e5-460d-a6ec-d996155885d7.png)
+![Diagram](https://user-images.githubusercontent.com/94305490/142737288-b08cc816-bc69-440e-8a0c-737342236d1c.png)
 
 
 ### use case diagram
