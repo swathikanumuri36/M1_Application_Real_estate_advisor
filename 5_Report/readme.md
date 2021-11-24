@@ -36,10 +36,12 @@ Mediators take a huge amount of money on successful completion of a deal.To over
 
 - Real estate advisor has two features that is Buyer and Seller.
 
-Buyer:
+### Buyer:
 - Can view the all records of available properties.
 - Can view properties by the type of property.
-Seller:
+
+
+### Seller:
 - Can add their properties with specifications and other details like address,contact number,etc.
 - Can modify the added details of the Properties.
 - Delete the record of properties,incase property is sold out.
