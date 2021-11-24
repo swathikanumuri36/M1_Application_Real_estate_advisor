@@ -115,6 +115,12 @@ Buyers can view all the properties or asserts availablle or can also view by the
 
 ### Class diagram
 
+![structural diagram](https://user-images.githubusercontent.com/94305490/142732591-f49e2ee1-da21-40a5-9f4f-8c1df5b18d2d.png)
+
+
+### Component diagram
+
+
 
 
 
