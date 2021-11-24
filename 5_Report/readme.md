@@ -49,3 +49,8 @@ Mediators take a huge amount of money on successful completion of a deal.To over
 # SWOT Analysis
 
 ![Swot png](https://user-images.githubusercontent.com/94305490/143232086-9ff976f8-c781-470c-9466-a60e5101a77f.jpg)
+
+
+## 4W and 1H
+
+
