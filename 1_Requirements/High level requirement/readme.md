@@ -1,3 +1,6 @@
-High Level Requirements:<br>
-->Using Sell option.<br>
-->Using Buy option.<br>
+## High Level Requirement
+
+| ID | Description | Status |
+| ----- | ----------------- | ----------- |
+| HLR01 | Using sell option | Implemented |
+| HLR02 | Using buy option | Implemented |
