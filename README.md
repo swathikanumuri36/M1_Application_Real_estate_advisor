@@ -4,3 +4,5 @@
 [![Code grade](https://api.codiga.io/project/29816/status/svg)]
 
 [![build_windows](https://github.com/swathikanumuri36/M1_Application_Real_estate_advisor/actions/workflows/build_windows.yml/badge.svg)](https://github.com/swathikanumuri36/M1_Application_Real_estate_advisor/actions/workflows/build_windows.yml)
+
+[![Static code Cppcheck](https://github.com/swathikanumuri36/M1_Application_Real_estate_advisor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/swathikanumuri36/M1_Application_Real_estate_advisor/actions/workflows/cppcheck.yml)
