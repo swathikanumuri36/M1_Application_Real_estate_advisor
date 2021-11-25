@@ -1,4 +1,4 @@
-name: Static code Cppcheck
+name: Cppcheck-action
 on: [push]
 
 jobs:
